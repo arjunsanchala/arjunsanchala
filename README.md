@@ -1,12 +1,12 @@
 <h1 align="center"> I'm Arjun Sanchala :wave:</h1>
 
 
-##  Contact me: &nbsp; [<img align="center" alt="LinkedIn" width="25px" src="./profiling/linkedin.svg" />][linkedin] &nbsp; [<img align="center" alt="Gmail" width="25px" src="./profiling/gmail.svg" />][gmail] 
+##  Contact me: &nbsp; [<img align="center" alt="LinkedIn" width="125px" src="https://img.shields.io/badge/-LinkedIn-B0E0E6?logo=linkedin&logoColor=black" />][linkedin] &nbsp; [<img align="center" alt="Gmail" width="100px" src="https://img.shields.io/badge/-GMAIL-F08080?logo=gmail&logoColor=black" />][gmail] 
 
 [linkedin]: https://www.linkedin.com/in/arjun-sanchala 
 [gmail]: mailto:sanchala.arjun@gmail.com
 
-### Background
+### Background :rocket:
 
 - Completed Master of Information and Communications Technology major in Data Analytics.
 - Worked as a Data science Intern at [Katonic.AI](https://katonic.ai/) for 5 months, built Data science solutions for their live projects. 
@@ -23,11 +23,16 @@
 - :speech_balloon: Communication and other interpersonal skills.
 
 ### Technical skills
-- Python <img align="center" alt="LinkedIn" width="25px" src="./profiling/python.svg" /> 
-- SQL &emsp; <img align="top" alt="LinkedIn" width="25px" src="./profiling/mysql.svg" /> &emsp; <img align="center" alt="LinkedIn" width="25px" src="./profiling/postgresql.svg" />
-- Amazon Web Services &ensp; <img align="center" alt="LinkedIn" width="25px" src="./profiling/amazonaws.svg" /> 
-- Google Cloud Platform &ensp; <img align="center" alt="LinkedIn" width="14px" src="./profiling/google.svg" />
-- Git &ensp; <img align="center" alt="LinkedIn" width="25px" src="./profiling/github.svg" />
-- MongoDB &ensp; <img align="center" alt="LinkedIn" width="25px" src="./profiling/mongodb.svg" />
-- Docker &ensp; <img align="center" alt="LinkedIn" width="25px" src="./profiling/docker.svg" />
-- Kubernetes &ensp; <img align="center" alt="LinkedIn" width="25px" src="./profiling/kubernetes.svg" />
+
+<img width="125px" src ="https://img.shields.io/badge/-Python-6495ED?logo=python&logoColor=black"> &emsp; &ensp; 
+<img width="125px" src ="https://img.shields.io/badge/-MySQL-87CEEB?logo=mysql&logoColor=black">&emsp; &ensp; 
+<img width="170px" src ="https://img.shields.io/badge/-PostgreSQL-4682B4?logo=postgresql&logoColor=black"> &emsp; &ensp;
+<img width="275px" src ="https://img.shields.io/badge/-Amazon Web Services-F5F5F5?logo=amazonaws&logoColor=orange"> &emsp; &ensp;
+<img width="275px" src ="https://img.shields.io/badge/-Google Cloud Platform-F0E68C?logo=google&logoColor=black"> &emsp; &ensp;
+<img width="80px" src ="https://img.shields.io/badge/-Git-DCDCDC?logo=github&logoColor=black"> &emsp; &ensp;
+<img width="150px" src ="https://img.shields.io/badge/-MongoDB-32CD32?logo=mongodb&logoColor=black"> &emsp; &ensp;
+<img width="120px" src ="https://img.shields.io/badge/-Docker-E6E6FA?logo=docker&logoColor=black"> &emsp; &ensp;
+<img width="165px" src ="https://img.shields.io/badge/-Kubernetes-696969?logo=kubernetes&logoColor=black"> &emsp; &ensp;
+
+
+
