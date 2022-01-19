@@ -13,7 +13,7 @@
 - Was Junior Data Scientist at [Mtag Innovations](https://www.mtag.in/) for 6 months. 
 - Accomplished projects in various fields such as Machine Learning, Deep Learning, Natural Language Understanding, Computer Vision and Transfer Learning.  
 
-### Soft skills
+### What I've learned so far...
 - :computer: Structured programming and dealing with errors.
 - :chart_with_upwards_trend: Building low-bias and low-variance Machine Learning models.
 - :recycle: Application development life-cycle
@@ -22,7 +22,7 @@
 - :busts_in_silhouette: Working in a team.
 - :speech_balloon: Communication and other interpersonal skills.
 
-### Technical skills
+### Technologies I've used... 
 
 <img width="125px" src ="https://img.shields.io/badge/-Python-6495ED?logo=python&logoColor=black"> &emsp; &ensp; 
 <img width="125px" src ="https://img.shields.io/badge/-MySQL-87CEEB?logo=mysql&logoColor=black">&emsp; &ensp; 
