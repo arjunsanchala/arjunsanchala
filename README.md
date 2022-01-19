@@ -1,9 +1,11 @@
 ## I’m @arjunsanchala
 
-[<img align="left" alt="LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-
+Contact me:
+[<img align="center" alt="LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/arjun-sanchala
 
+[<img align="middle" alt="LinkedIn" width="22px" src="./gmail.svg" />][gmail]
+[linkedin]: mailto:sanchala.arjun@gmail.com
 
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
